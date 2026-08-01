@@ -1,0 +1,29 @@
+generated: '2026-07-21'
+method: searched
+source: https://trust.rogo.ai/
+docs: https://www.rogo.ai/security
+standards:
+- id: soc2-type1
+  conforms: true
+  evidence: SOC 2 Type 1 report listed on trust.rogo.ai
+- id: soc2-type2
+  conforms: true
+  evidence: SOC 2 Type 2 report listed on trust.rogo.ai
+- id: iso-27001
+  conforms: true
+  evidence: ISO/IEC 27001 certification listed on trust.rogo.ai
+- id: iso-42001
+  conforms: true
+  evidence: ISO/IEC 42001:2023 (AI management system) certification listed on trust.rogo.ai
+- id: gdpr
+  conforms: true
+  evidence: GDPR compliance stated on rogo.ai/security and trust center
+- id: ccpa
+  conforms: true
+  evidence: CCPA compliance stated on rogo.ai/security and trust center
+- id: eu-ai-act
+  conforms: true
+  evidence: EU AI Act alignment stated on rogo.ai/security and trust center
+- id: vpat
+  conforms: true
+  evidence: VPAT (accessibility) document listed on trust.rogo.ai

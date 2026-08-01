@@ -1,9 +1,32 @@
 aid: rogo
 name: Rogo
-description: 'Rogo is a company surfaced as a portfolio company of kleiner-perkins and added to the API
-  Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: >-
+  Rogo is a New York-based artificial intelligence company building an AI
+  platform purpose-built for the world's leading financial institutions. Founded
+  by Gabriel Stengel, John Willett, and Tumas Rackaitis, Rogo serves 300+
+  institutions and 35,000+ bankers and investors with AI agents that execute
+  end-to-end financial workflows — producing institutional-grade Excel models,
+  investment memos, diligence materials, and slide decks. Its platform (including
+  the Felix assistant) integrates with firm systems (SharePoint, CRM) and
+  financial data providers (LSEG, FactSet, Capital IQ, PitchBook, Preqin, Dow
+  Jones, SEC filings) and is custom-deployed with enterprise-grade, single-tenant
+  security. Customers include Truist Securities, Nomura, and Baird. Rogo raised a
+  $160M Series D led by Kleiner Perkins. Rogo publishes no public developer API,
+  SDKs, or API documentation; this profile captures its identity and published
+  security/compliance posture.
 url: https://raw.githubusercontent.com/api-evangelist/rogo/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://framerusercontent.com/images/Qm6IcYgHwjybaVJWGq8YTefXCE.jpg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,10 +35,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
-- Ai
+- Artificial Intelligence
+- Financial Services
+- Investment Banking
+- Fintech
+- Enterprise AI
+- AI Agents
+- Private Equity
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +54,26 @@ maintainers:
 common:
 - type: Website
   url: https://www.rogo.ai
+- type: Blog
+  url: https://www.rogo.ai/news
+- type: GitHubOrganization
+  url: https://github.com/Rogo-Technologies
+- type: SignUp
+  url: https://tryrogo.com
+- type: TermsOfService
+  url: https://www.rogo.ai/terms-of-use
+- type: PrivacyPolicy
+  url: https://www.rogo.ai/privacy-policy
+- type: TrustCenter
+  url: security/rogo-trust-center.yml
+- type: Compliance
+  url: https://trust.rogo.ai
+- type: Conformance
+  url: conformance/rogo-conformance.yml
+- type: DomainSecurity
+  url: security/rogo-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 0
+  pass: local-v1

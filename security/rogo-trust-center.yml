@@ -1,0 +1,28 @@
+generated: '2026-07-21'
+method: searched
+probe: true
+source: https://trust.rogo.ai/
+url: https://trust.rogo.ai/
+certifications:
+- SOC 2 Type 1
+- SOC 2 Type 2
+- ISO/IEC 27001
+- ISO/IEC 42001:2023
+- GDPR
+- CCPA
+- EU AI Act
+- VPAT
+evidence:
+- source: https://trust.rogo.ai/
+  keywords:
+  - soc 2 type 1
+  - soc 2 type 2
+  - iso/iec 27001
+  - iso/iec 42001
+  - trust center
+  - gdpr
+  - ccpa
+  - eu ai act
+  - vpat
+security_page: https://www.rogo.ai/security
+responsible_disclosure: listed as an App Security capability on trust.rogo.ai (no public program/contact published)
