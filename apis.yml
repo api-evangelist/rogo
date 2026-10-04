@@ -50,7 +50,7 @@ modified: '2026-07-21'
 tags:
 - Company
 - Artificial Intelligence
-- Financial-Services
+- Financial Services
 - Investment Banking
 - Fintech
 - Enterprise AI
@@ -65,6 +65,7 @@ tags_raw:
 - Enterprise AI
 - AI Agents
 - Private Equity
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
